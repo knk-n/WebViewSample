@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>ja</string>
 	<key>CFBundleDisplayName</key>
-	<string>webViewSample</string>
+	<string>WebViewSample</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -28,9 +28,9 @@
 		<true/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>"webViewSample"で画像をアップロードするためにカメラを使用します。</string>
+	<string>&quot;WebViewSample&quot;で画像をアップロードするためにカメラを使用します。</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>"webViewSample"で画像をアップロードするためにフォトライブラリにアクセスします。</string>
+	<string>&quot;WebViewSample&quot;で画像をアップロードするためにフォトライブラリにアクセスします。</string>
 	<key>UILaunchStoryboardName</key>
 	<string></string>
 	<key>UIRequiredDeviceCapabilities</key>
